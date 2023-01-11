@@ -1,0 +1,36 @@
+body {
+    align-content: center;
+    text-align: center;
+}
+header { 
+    margin-right: 35%;
+    margin-left: 35%;
+    display: flex;
+    flex-direction: row-reverse;
+    -ms-flex-align: center;
+    background-color:#5A1E42;
+    color: aliceblue;  
+    border-radius: 15px;
+    width:fit-content;
+    align-items: center;
+    padding: 5%;
+    justify-content: end;
+}
+
+#photohome {
+   width: 90px;
+   padding-right: 15px;
+}
+
+footer {
+    background-color:#5A1E42;
+    color: aliceblue;  
+    border-radius: 15px; 
+}
+span {
+    font-weight: 700;
+    color: aqua;
+}
+
+
+
