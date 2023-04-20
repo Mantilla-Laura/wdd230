@@ -26,4 +26,4 @@ const daynames = [
   const monthName = months[d.getMonth()];
   const year = d.getFullYear();
   const fulldate = `Last updated on ${monthName} ${d.getDate()}, ${year}`;
-  document.querySelector("#date").textContent = fulldate;
+  document.querySelector(".date").textContent = fulldate;
